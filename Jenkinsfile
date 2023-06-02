@@ -18,7 +18,7 @@ pipeline {
 
     stage('Pushing Image') {
       environment {
-               registryCredential = 'dckr_pat_ugydWRPJCMmPh2rwpyV2EbHvLxg'
+               registryCredential = 'athsmj'
            }
       steps{
         script {
