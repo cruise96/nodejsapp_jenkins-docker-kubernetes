@@ -1,7 +1,7 @@
 pipeline {
 
   environment {
-    dockerimagename = "ramann123/myimage"
+    dockerimagename = "atharva123/myimage"
     dockerImage = ""
   }
 
